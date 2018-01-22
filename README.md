@@ -1,3 +1,6 @@
-# My Awesome Book
+# 集合與邏輯
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+數學家對於零散的隻字片語、憑空的幻想、毫無次序、毫無組織、雜亂無章的事務是沒有興趣的，數學家研究的是一群有關連、有關係的事物，這一群有關係的事物就是集合。
+
+數學知識的建立是靠邏輯推導出來的，而後人學習的數學知識，也是利用邏輯表達出來，所以我們必須了解邏輯，這樣才能看懂數學的內容。
+
