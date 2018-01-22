@@ -1,5 +1,6 @@
 # Summary
 
+* [研讀方式](reading.md)
 * [簡介](README.md)
 * [1. 集合](chapter1.md)
   * [1.1問題\(Question\)](chapter1/11q.md)
