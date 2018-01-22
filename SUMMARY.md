@@ -11,7 +11,7 @@
   * [1.2方法\(Method\)](chapter1/12m.md)
     * [1.2M1](chapter1/12m/12m1.md)
     * [1.2M2](chapter1/12m/12m2.md)
-    * 1.2M3
+    * [1.2M3](chapter1/12m/12m3.md)
     * 1.2M4
   * 1.3證明\(Proof\)
     * 1.3PF1
