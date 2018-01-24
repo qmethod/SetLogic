@@ -17,5 +17,5 @@
     * 1.3PF1
   * [1.4特殊化\(Specialization\)](chapter1/14te-shu-531628-specialization.md)
   * [1.5綜合評量\(Evaluation\)](chapter1/15zong-he-ping-91cf28-evaluation.md)
-* [2. 邏輯](2logic.md)
+* [2. 邏輯語句](2logic.md)
 
