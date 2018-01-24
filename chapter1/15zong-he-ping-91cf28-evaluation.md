@@ -7,9 +7,7 @@ A=\[1，5\]，B=\[3，7\)是兩個區間，則A![](https://market.cloud.edu.tw/c
                                                                          ANS：{ \( 3，5 \) }
    ```
 
-  
-例 1.A＝｛1，2，3｝時，n\(A\)=3  
-例 2.P＝｛\(1，2\)，\(2，5\)｝時，n\(P\) =2
+
 
 Ⅰ.  集合的個數是無限時，n\(A\)就沒意義  
 Ⅱ.  n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B\)＝n\(A\) + n\(B\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)  
