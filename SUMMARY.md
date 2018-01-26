@@ -15,7 +15,7 @@
       * [M3:Sp\(特殊化\)](chapter1/12m/12m3/m3sp.md)
     * [1.2M4\(定義\)](chapter1/12m/12m4.md)
       * [M4:Sp\(特殊化\)](chapter1/12m/12m4/m4sp.md)
-    * [1.2M5](chapter1/12m/12m5.md)
+    * [1.2M5\(定理\)](chapter1/12m/12m5.md)
   * [1.3證明\(Proof\)](chapter1/13zheng-660e28-proof.md)
     * 1.3PF1
   * [1.5綜合評量\(Evaluation\)](chapter1/15zong-he-ping-91cf28-evaluation.md)
