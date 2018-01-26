@@ -7,8 +7,6 @@ A=\[1，5\]，B=\[3，7\)是兩個區間，則A![](https://market.cloud.edu.tw/c
                                                                          ANS：{ \( 3，5 \) }
    ```
 
-
-
 Ⅰ.  集合的個數是無限時，n\(A\)就沒意義  
 Ⅱ.  n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B\)＝n\(A\) + n\(B\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)  
 例如：  
@@ -50,4 +48,24 @@ ANS\(a\)44\(b\)6\(c\)6\(d\)26
 　　\(b\)只 選修西班牙語言者有幾人？  
 　　\(c\) 都沒有選修者有幾人？  
 ANS\(a\)12 人\(b\)5人\(c\)2 人
+
+隨堂練習：
+
+1. Ｚ是所有整數所成的集合，令A={ 2n ｜ n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")Z }  
+    則Z－A＝？                             ANS：Z－A＝{ 2n+1 ｜ n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")Z }  
+2. R是所有實數所成的集合  
+    Q是所有有理數所成的集合  
+    則R－Q=？  
+   ```
+                                 　　　　ANS：所有無理數所成的集合  
+   ```
+3. 有兩區間A=\[ 0，π\]，B=\[2，4\]  
+    則A－B＝？    　　　　　　　　ANS：〔０，２ \)  
+4. 設A，B，C是三個集合且A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C  
+    則 \(1\)B－A＝？　　　　　　　　　ANS：\(1\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")  
+   ```
+     \(2\)\(B－A\)－C＝？　　　　　　　　　    \(2\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
+   ```
+
+
 
