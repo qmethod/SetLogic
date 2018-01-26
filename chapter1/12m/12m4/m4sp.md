@@ -14,9 +14,14 @@
 
 解答：\(1\)n\(A\)=3 ，n\(P\) =2
 
-例題 4. A＝｛1，2｝，B＝｛0，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")｝試求\(1\)   A × B   \(2\) B × A  \(3\) $$A^2$$
+例題 4. A＝｛1，2｝，B＝｛0，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")｝試求\(1\)   A × B   \(2\) B × A  \(3\) $$A^2$$
 
-        A×B＝｛\(1，0\)，\(1，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")\)，\(2，0\)，\(2，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")\)｝  
-        B × A＝｛\(0，1\)，\(![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")，1\)，\(0，2\)，\(![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")，2\)｝  
-        $$A^2$$＝A×A=｛\(1，1\)，\(1，2\)，\(2，1\)，\(2，2\)｝
+A×B＝｛\(1，0\)，\(1，!\[\]\(https://market.cloud.edu.tw/content/senior/math/tn\_t2/math\_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \\(87 bytes\\)"\)\\)，\\(2，0\\)，\\(2，!\[\]\(https://market.cloud.edu.tw/content/senior/math/tn\_t2/math\_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \\(87 bytes\\)"\)\\)｝  
+
+```
+    B × A＝｛\(0，1\)，\(![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")，1\)，\(0，2\)，\(![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/count2.gif "count2.gif \(87 bytes\)")，2\)｝  
+    $$A^2$$＝A×A=｛\(1，1\)，\(1，2\)，\(2，1\)，\(2，2\)｝
+```
+
+
 
