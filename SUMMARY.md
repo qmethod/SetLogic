@@ -12,9 +12,9 @@
     * [1.2M1\(抽象化\)](chapter1/12m/12m1.md)
     * [1.2M2\(定義\)](chapter1/12m/12m2.md)
     * [1.2M3\(定義\)](chapter1/12m/12m3.md)
-      * [M3:Sp](chapter1/12m/12m3/m3sp.md)
+      * [M3:Sp\(特殊化\)](chapter1/12m/12m3/m3sp.md)
     * [1.2M4\(定義\)](chapter1/12m/12m4.md)
-      * [M4:Sp](chapter1/12m/12m4/m4sp.md)
+      * [M4:Sp\(特殊化\)](chapter1/12m/12m4/m4sp.md)
     * [1.2M5](chapter1/12m/12m5.md)
   * [1.3證明\(Proof\)](chapter1/13zheng-660e28-proof.md)
     * 1.3PF1
