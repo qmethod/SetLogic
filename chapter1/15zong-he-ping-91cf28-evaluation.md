@@ -1,28 +1,30 @@
-例題1. 若已知 A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C   化簡下列各題：\(1\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C     \(2\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C   \(3\)   \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C    \(4\)  \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C  \(5\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C \)  \(6\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C \)
+例題1. 若已知 A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C   化簡下列各題：\(1\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C     \(2\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C   \(3\)   \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C    \(4\)  \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C  \(5\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C \)  \(6\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C \) \(7\) B－A 
 
-解答：\(1\) C   \(2\) A     \(3\) B  \(4\) C    \(5\) A  \(6\)  B
+解答：\(1\) C   \(2\) A     \(3\) B  \(4\) C    \(5\) A  \(6\)  B \(7\) $$\emptyset$$
 
-例題2.  A表示全班同學所成的集合，B表示全班戴眼鏡的同學所成的集合，試問全班沒戴眼鏡的同學所成的集合如何表示?又B－A代表什麼樣的集合?
+例題2. A= \[1，5\]，B=\[3，7\)是兩個區間，試求 \(1\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B=  \(2\) A－B＝？  
 
-解答：全班沒戴眼鏡的同學所成的集合就是 A－B，B－A=$$\emptyset$$ 
-
-例題2. A= \[1，5\]，B=\[3，7\)是兩個區間，則A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B=？
-
-解答：A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B= \[1，7\] 
+解答：\(1\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B= \[1，7\]  
+            \(2\) A－B = \[1 ，3\)
 
 例題3. ![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image5.gif "Image5.gif \(317 bytes\)")，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image3.gif "Image3.gif \(378 bytes\)")，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image2.gif "Image2.gif \(208 bytes\)")
 
-解答：A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B ={ x \| 4-
+解答：A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B ={ x \|  $$\sqrt{3}$$ － 1 &lt; x &lt; 4－$$\sqrt{3}$$ }
 
-例題4.  A={ \(x，y\) \| x+3y=7 }，B={ \(x，y\) \|  3x-y=1}，求A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B？  
+例題4.  A={ \(x，y\) \| x+3y=7 }，B={ \(x，y\) \|  3x-y=1}，求A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B？
 
 解答：A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B = {\(1,2\)}
+
+
+
+例題2.  A表示全班同學所成的集合，B表示全班戴眼鏡的同學所成的集合，試問全班沒戴眼鏡的同學所成的集合如何表示?又B－A代表什麼樣的集合?
+
+解答：全班沒戴眼鏡的同學所成的集合就是 A－B，B－A=$$\emptyset$$
 
 ```
                                                                       ANS：{ \( 3，5 \) }
 ```
 
-  
 例 : 自 1 算到 100 共 100 個自然數中，不是 2 , 3 , 5 之倍數的數共有幾個 ?  
 解 : 設 A2={ 2n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n ≦50} , A3={ 3n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n≦33} , A5={ 5n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n ≦20}  
        則 A2![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")A3={6n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n≦16}  
@@ -65,12 +67,7 @@ ANS\(a\)12 人\(b\)5人\(c\)2 人
    ```
                                  　　　　ANS：所有無理數所成的集合
    ```
-3. 有兩區間A=\[ 0，π\]，B=\[2，4\]  
-    則A－B＝？    　　　　　　　　ANS：〔０，２ \)  
-4. 設A，B，C是三個集合且A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C  
-    則 \(1\)B－A＝？　　　　　　　　　ANS：\(1\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
-
-   ```
+3. 4.   ```
      \(2\)\(B－A\)－C＝？　　　　　　　　　    \(2\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
    ```
 
