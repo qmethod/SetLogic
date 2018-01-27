@@ -8,9 +8,8 @@ A=\[1，5\]，B=\[3，7\)是兩個區間，則A![](https://market.cloud.edu.tw/c
    ```
 
 Ⅰ.  集合的個數是無限時，n\(A\)就沒意義  
-Ⅱ.  n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B\)＝n\(A\) + n\(B\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)  
-例如：  
-      
+Ⅱ.  n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B\)＝n\(A\) + n\(B\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)
+
 Ⅲ. n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(416 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(416 bytes\)")C \)=n\(A\) + n\(B\) + n\(C\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)－n\(B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C\) + \(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C\)  
 Ⅳ. n\(A╳B\)=n\(A\)╳n\(B\)  
 Ⅴ.  n\(A-B\)=n\(A\)-n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)  
