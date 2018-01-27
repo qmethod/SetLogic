@@ -23,16 +23,9 @@
 
 隨堂練習：
 
-2.![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image5.gif "Image5.gif \(317 bytes\)")  
-![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image3.gif "Image3.gif \(378 bytes\)")，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image2.gif "Image2.gif \(208 bytes\)")  
-                                                    ANS：![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image1.gif "Image1.gif \(352 bytes\)")  
-3.已知 A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C  
-   化簡1. A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C                       ANS：1. C  
-           2. A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C                                   2. A  
-           3. \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C                              3. B  
-           4. \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C                              4. C  
-           5. A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C \)                              5. A  
-           6. A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C \)                              6. B
+```
+                                                ANS：![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image1.gif "Image1.gif \(352 bytes\)")
+```
 
 
 
