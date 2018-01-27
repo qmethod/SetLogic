@@ -8,6 +8,8 @@
     * [1.1Q2](chapter1/11q/11q2.md)
     * [1.1Q3](chapter1/11q/11q3.md)
     * [1.1Q4](chapter1/11q/11q4.md)
+    * [1.1Q5](chapter1/11q/11q5.md)
+    * [1.1Q6](chapter1/11q/11q6.md)
   * [1.2方法\(Method\)](chapter1/12m.md)
     * [1.2M1\(抽象化\)](chapter1/12m/12m1.md)
     * [1.2M2\(定義\)](chapter1/12m/12m2.md)
