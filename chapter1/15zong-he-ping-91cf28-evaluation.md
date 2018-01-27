@@ -10,10 +10,7 @@ A=\[1，5\]，B=\[3，7\)是兩個區間，則A![](https://market.cloud.edu.tw/c
 Ⅰ.  集合的個數是無限時，n\(A\)就沒意義  
 Ⅱ.  n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B\)＝n\(A\) + n\(B\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)  
 例如：  
-    A＝｛1，2，3｝，B＝｛2，4，6｝  
-　A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B＝｛1，2，3，4，6｝，A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B＝｛2｝  
-　n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B\)＝5，n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)＝1  
-    n\(A\)＝3，n\(B\)＝3  
+      
 Ⅲ. n\( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(416 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong6.gif "belong6.gif \(416 bytes\)")C \)=n\(A\) + n\(B\) + n\(C\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)－n\(B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C\)－n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C\) + \(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C\)  
 Ⅳ. n\(A╳B\)=n\(A\)╳n\(B\)  
 Ⅴ.  n\(A-B\)=n\(A\)-n\(A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B\)  
@@ -62,17 +59,18 @@ ANS\(a\)12 人\(b\)5人\(c\)2 人
 3. 有兩區間A=\[ 0，π\]，B=\[2，4\]  
     則A－B＝？    　　　　　　　　ANS：〔０，２ \)  
 4. 設A，B，C是三個集合且A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C  
-    則 \(1\)B－A＝？　　　　　　　　　ANS：\(1\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")  
+    則 \(1\)B－A＝？　　　　　　　　　ANS：\(1\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
+
    ```
      \(2\)\(B－A\)－C＝？　　　　　　　　　    \(2\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
    ```
 
-  1. 衣服型態由A＝｛L，M，S｝決定，外觀由B＝｛紅，藍，黑｝所代表，那麼不同衣服款式有哪些？A╳B＝？  
-ANS：不同款式有9種如下：  
-    　　A╳B＝｛\(L，紅\)，\(L，藍\)，\(L，黑\)，\(M，紅\)，\(M，藍\)  
-　　　　　　，\(M，黑\)，\(S，紅\)，\(S，藍\)，\(S，黑\)｝  
-    2. 某餐飲店有熟食：A＝｛炸雞腿，披薩，大漢堡｝每份各100元，再免費附送飲料B＝｛果汁，可樂，汽水｝一份，則有幾種不同的選擇？  
-ANS：A╳B＝｛\(炸雞腿，果汁\)，\(炸雞腿，可樂\)，\(炸雞腿，汽水\)，\(披薩，果汁\)，\(披薩，可樂\)，\(披薩，汽水\)，\(大漢堡，果汁\)，\(大漢堡，可樂\)，\(大漢堡，汽水\)｝
+   1. 衣服型態由A＝｛L，M，S｝決定，外觀由B＝｛紅，藍，黑｝所代表，那麼不同衣服款式有哪些？A╳B＝？  
+      ANS：不同款式有9種如下：  
+      　　A╳B＝｛\(L，紅\)，\(L，藍\)，\(L，黑\)，\(M，紅\)，\(M，藍\)  
+      　　　　　　，\(M，黑\)，\(S，紅\)，\(S，藍\)，\(S，黑\)｝  
+      1. 某餐飲店有熟食：A＝｛炸雞腿，披薩，大漢堡｝每份各100元，再免費附送飲料B＝｛果汁，可樂，汽水｝一份，則有幾種不同的選擇？  
+         ANS：A╳B＝｛\(炸雞腿，果汁\)，\(炸雞腿，可樂\)，\(炸雞腿，汽水\)，\(披薩，果汁\)，\(披薩，可樂\)，\(披薩，汽水\)，\(大漢堡，果汁\)，\(大漢堡，可樂\)，\(大漢堡，汽水\)｝
 
-　　　　　　　　共九種選擇
+共九種選擇
 
