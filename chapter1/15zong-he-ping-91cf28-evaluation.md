@@ -1,8 +1,8 @@
-例題1. 若已知 A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C   化簡下列各題：\(1\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C     \(2\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C   \(3\)   \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C    \(4\)  \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C  \(5\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C \)  \(6\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C \) \(7\) B－A 
+例題1. 若已知 A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C   化簡下列各題：\(1\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C     \(2\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C   \(3\)   \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C    \(4\)  \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C  \(5\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C \)  \(6\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C \) \(7\) B－A
 
 解答：\(1\) C   \(2\) A     \(3\) B  \(4\) C    \(5\) A  \(6\)  B \(7\) $$\emptyset$$
 
-例題2. A= \[1，5\]，B=\[3，7\)是兩個區間，試求 \(1\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B=  \(2\) A－B＝？  
+例題2. A= \[1，5\]，B=\[3，7\)是兩個區間，試求 \(1\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B=  \(2\) A－B＝？
 
 解答：\(1\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B= \[1，7\]  
             \(2\) A－B = \[1 ，3\)
@@ -15,15 +15,19 @@
 
 解答：A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B = {\(1,2\)}
 
-
-
-例題2.  A表示全班同學所成的集合，B表示全班戴眼鏡的同學所成的集合，試問全班沒戴眼鏡的同學所成的集合如何表示?又B－A代表什麼樣的集合?
+例題5.  A表示全班同學所成的集合，B表示全班戴眼鏡的同學所成的集合，試問全班沒戴眼鏡的同學所成的集合如何表示?又B－A代表什麼樣的集合?
 
 解答：全班沒戴眼鏡的同學所成的集合就是 A－B，B－A=$$\emptyset$$
 
-```
-                                                                      ANS：{ \( 3，5 \) }
-```
+例題6. R是所有實數所成的集合， Q是所有有理數所成的集合， 則R－Q=？  
+
+解答：所有無理數所成的集合
+
+例題7. 設Ｚ是所有整數所成的集合，令A={ 2n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")Z }   則Z－A＝？   
+
+解答：Z－A＝{ 2n+1 \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")Z }  
+
+
 
 例 : 自 1 算到 100 共 100 個自然數中，不是 2 , 3 , 5 之倍數的數共有幾個 ?  
 解 : 設 A2={ 2n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n ≦50} , A3={ 3n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n≦33} , A5={ 5n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math01/chp1-1/belong.gif "belong.gif \(411 bytes\)")N , n ≦20}  
@@ -67,11 +71,10 @@ ANS\(a\)12 人\(b\)5人\(c\)2 人
    ```
                                  　　　　ANS：所有無理數所成的集合
    ```
-3. 4.   ```
-     \(2\)\(B－A\)－C＝？　　　　　　　　　    \(2\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
-   ```
-
-   1. 衣服型態由A＝｛L，M，S｝決定，外觀由B＝｛紅，藍，黑｝所代表，那麼不同衣服款式有哪些？A╳B＝？  
+3. 1. ```
+      \(2\)\(B－A\)－C＝？　　　　　　　　　    \(2\)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/empty.gif "empty.gif \(62 bytes\)")
+      ```
+   2. 衣服型態由A＝｛L，M，S｝決定，外觀由B＝｛紅，藍，黑｝所代表，那麼不同衣服款式有哪些？A╳B＝？  
       ANS：不同款式有9種如下：  
       　　A╳B＝｛\(L，紅\)，\(L，藍\)，\(L，黑\)，\(M，紅\)，\(M，藍\)  
       　　　　　　，\(M，黑\)，\(S，紅\)，\(S，藍\)，\(S，黑\)｝  
