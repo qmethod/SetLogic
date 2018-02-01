@@ -11,6 +11,7 @@
     * [1.1Q5](chapter1/11q/11q5.md)
     * [1.1Q6](chapter1/11q/11q6.md)
     * [1.1Q7](chapter1/11q/11q7.md)
+    * [1.1Q8](chapter1/11q/11q8.md)
   * [1.2方法\(Method\)](chapter1/12m.md)
     * [1.2M1\(抽象化\)](chapter1/12m/12m1.md)
       * [M1:Sp](chapter1/12m/12m1/m1sp.md)
@@ -25,7 +26,8 @@
     * [1.2M6\(定理\)](chapter1/12m/12m6ding-740629.md)
       * M6:Sp
     * [1.2M7\(定義\)](chapter1/12m/12m7.md)
-      * M7:Sp
+      * [M7:Sp](chapter1/12m/12m7/m7sp.md)
+    * [1.2M8](chapter1/12m/12m8.md)
   * [1.3證明\(Proof\)](chapter1/13zheng-660e28-proof.md)
     * [1.3PF1](chapter1/13zheng-660e28-proof/13pf1.md)
   * [1.4綜合評量\(Evaluation\)](chapter1/15zong-he-ping-91cf28-evaluation.md)
