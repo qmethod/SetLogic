@@ -31,4 +31,5 @@
   * [1.4綜合評量\(Evaluation\)](chapter1/15zong-he-ping-91cf28-evaluation.md)
   * [1.4特殊化\(Specialization\)](chapter1/14te-shu-531628-specialization.md)
 * [2. 邏輯語句](2logic.md)
+* [3. 函數](3function.md)
 
