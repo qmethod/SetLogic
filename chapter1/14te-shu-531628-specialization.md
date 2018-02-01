@@ -21,11 +21,7 @@
 5. 在坐標平面上， x軸上每一點均為\( x，0 \) 的型式，即x={ \(x，y\)｜ x![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")R，y=0}表x軸，同理y={ \(x，y\) ｜ x=0，y![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")R}表y軸。求方程式 xy=0 所表示的圖形  
     A={ \(x，y\) ｜ xy=0 }與x軸，y軸的關係
 
-隨堂練習：
 
-```
-                                                ANS：![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image1.gif "Image1.gif \(352 bytes\)")
-```
 
 
 
