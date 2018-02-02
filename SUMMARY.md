@@ -29,7 +29,7 @@
       * [M7:Sp](chapter1/12m/12m7/m7sp.md)
     * [1.2M8](chapter1/12m/12m8.md)
   * [1.3證明\(Proof\)](chapter1/13zheng-660e28-proof.md)
-    * [1.3PF1](chapter1/13zheng-660e28-proof/13pf1.md)
+    * [1.3Pf1](chapter1/13zheng-660e28-proof/13pf1.md)
   * [1.4綜合評量\(Evaluation\)](chapter1/15zong-he-ping-91cf28-evaluation.md)
     * [1.4ans](chapter1/15zong-he-ping-91cf28-evaluation/14ans.md)
   * [1.4特殊化\(Specialization\)](chapter1/14te-shu-531628-specialization.md)
