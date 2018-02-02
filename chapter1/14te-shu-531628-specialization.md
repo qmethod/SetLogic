@@ -6,13 +6,9 @@
         E是所有正方形所成的集合  
     指出上列五集合A，B，C，D，E中何者為何者的子集
 
-1. 設A={1，2，3，4，5}，B={x，x+1，y，y+1}  
-    當B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong3.gif "belong3.gif \(56 bytes\)")A時，求x，y的值 \(有12組\)
+1. \(\)
 
-2. 設A={-2，-1，0，1，2}，B={-1，1}  
-    另有一集合C滿足A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B，此種集合有幾個？
-
-   ```
+2.   ```
                                                                      \( ans：8個 \)
    ```
 
