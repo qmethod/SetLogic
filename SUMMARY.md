@@ -38,6 +38,7 @@
     * [2.2M1\(定義\)](2logic/22-fang-6cd528-method/22m1.md)
       * [2.2M1:Sp](2logic/22-fang-6cd528-method/22m1/22m1sp.md)
     * [2.2M2](2logic/22-fang-6cd528-method/22m2.md)
+      * 2.2M2:Sp
     * 2.2M3
   * 2.3 證明\(Proof\)
   * 2.4 綜合評量\(Evaluation\)
