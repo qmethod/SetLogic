@@ -39,7 +39,7 @@
       * [2.2M1:Sp](2logic/22-fang-6cd528-method/22m1/22m1sp.md)
     * [2.2M2\(定義\)](2logic/22-fang-6cd528-method/22m2.md)
       * [2.2M2:Sp](2logic/22-fang-6cd528-method/22m2/22m2sp.md)
-    * [2.2M3\(性質\)](2logic/22-fang-6cd528-method/22m3xing-8cea29.md)
+    * [2.2M3\(公理\)](2logic/22-fang-6cd528-method/22m3xing-8cea29.md)
     * 2.2M4
   * [2.3 證明\(Proof\)](2logic/23-zheng-660e28-proof.md)
   * 2.4 綜合評量\(Evaluation\)
