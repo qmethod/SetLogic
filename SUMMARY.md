@@ -35,10 +35,10 @@
 * [2. 邏輯語句](2logic.md)
   * [2.1 問題\(Queation\)](2logic/21-wen-984c28-queation.md)
   * [2.2 方法\(Method\)](2logic/22-fang-6cd528-method.md)
-    * [2.2M1\(定義\)](2logic/22-fang-6cd528-method/22m1.md)
-      * [2.2M1:Sp](2logic/22-fang-6cd528-method/22m1/22m1sp.md)
     * [2.2M2\(定義\)](2logic/22-fang-6cd528-method/22m2.md)
       * [2.2M2:Sp](2logic/22-fang-6cd528-method/22m2/22m2sp.md)
+    * [2.2M1\(定義\)](2logic/22-fang-6cd528-method/22m1.md)
+      * [2.2M1:Sp](2logic/22-fang-6cd528-method/22m1/22m1sp.md)
     * [2.2M3\(公理\)](2logic/22-fang-6cd528-method/22m3xing-8cea29.md)
     * 2.2M4
   * [2.3 證明\(Proof\)](2logic/23-zheng-660e28-proof.md)
