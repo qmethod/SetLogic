@@ -40,7 +40,8 @@
     * [2.2M2\(定義\)](2logic/22-fang-6cd528-method/22m2.md)
       * [2.2M2:Sp](2logic/22-fang-6cd528-method/22m2/22m2sp.md)
     * [2.2M3\(定義\)](2logic/22-fang-6cd528-method/22m3xing-8cea29.md)
-    * 2.2M4
+      * [2.2M3:Sp](2logic/22-fang-6cd528-method/22m3xing-8cea29/22m3sp.md)
+    * [2.2M4](2logic/22-fang-6cd528-method/22m4.md)
   * [2.3 證明\(Proof\)](2logic/23-zheng-660e28-proof.md)
   * 2.4 綜合評量\(Evaluation\)
 * [3. 函數](3function.md)
