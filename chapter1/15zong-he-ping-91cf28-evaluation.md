@@ -1,16 +1,16 @@
-例題1. 若已知 A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong4.gif "belong4.gif \(56 bytes\)")C   化簡下列各題：\(1\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C     \(2\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C   \(3\)   \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C    \(4\)  \( A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B \)![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C  \(5\)  A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")C \)  \(6\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")\( B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")C \) \(7\) B－A
+例題1. 若已知 A$$\supset$$B$$\supset$$C   化簡下列各題：\(1\)  A$$\cap$$B$$\cap$$C     \(2\)  A$$\cup$$B$$\cup$$C   \(3\)   \( A$$\cap$$B \)$$\cup$$C    \(4\)  \( A$$\cup$$B \)$$\cap$$C  \(5\)  A$$\cup$$\( B$$\cap$$C \)  \(6\) A$$\cap$$\( B$$\cup$$C \) \(7\) B$$-$$A
 
-例題2. A= \[1，5\]，B=\[3，7\)是兩個區間，試求 \(1\) A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong6.gif "belong6.gif \(59 bytes\)")B=  \(2\) A－B＝？
+例題2. A= \[1，5\]，B=\[3，7\)是兩個區間，試求 \(1\) A$$\cup$$B=  \(2\) A$$-$$B＝？
 
-例題3. ![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image5.gif "Image5.gif \(317 bytes\)")，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image3.gif "Image3.gif \(378 bytes\)")，![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/Image2.gif "Image2.gif \(208 bytes\)")
+例題3. A={ $${x| 1-\sqrt{2}<x<4-\sqrt{3}}$$ }，B = { $${x| \sqrt{3}-1<x<2+\sqrt{2}}$$}，求A$$\cap$$B?
 
-例題4.  A={ \(x，y\) \| x+3y=7 }，B={ \(x，y\) \|  3x-y=1}，求A![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong7.gif "belong7.gif \(59 bytes\)")B？
+例題4.  A={ \(x，y\) \| x+3y=7 }，B={ \(x，y\) \|  3x-y=1}，求A$$\cap$$B？
 
 例題5.  A表示全班同學所成的集合，B表示全班戴眼鏡的同學所成的集合，試問全班沒戴眼鏡的同學所成的集合如何表示?又B－A代表什麼樣的集合?
 
-例題6. R是所有實數所成的集合， Q是所有有理數所成的集合， 則R－Q=？
+例題6. R是所有實數所成的集合， Q是所有有理數所成的集合， 則R$$-$$Q=？
 
-例題7. 設Ｚ是所有整數所成的集合，令A={ 2n \| n![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong.gif "belong.gif \(411 bytes\)")Z }   則Z－A＝？
+例題7. 設Ｚ是所有整數所成的集合，令A={ 2n \| n$$\in$$Z }   則Z$$-$$A＝？
 
 例題8. 自 1 算到 100 共 100 個自然數中，不是 2 , 3 , 5 之倍數的數共有幾個 ?
 
@@ -18,5 +18,5 @@
 
 例題10 . 某班學生共50 人選修德語，日語，西班牙語，已知\(1\) 選修日語者有25人\(2\) 選修德語者有35人\(3\) 選修西班牙語者有33人　\(4\) 選修日語及德語者有017人\(5\) 選修日語及西班牙語者有15人\(6\)選修德語及西班牙語者有22人\(7\) 選修三種語言者有9人，問\(a\) 只選修一種語言者有幾人？ \(b\)只 選修西班牙語言者有幾人？ \(c\) 都沒有選修者有幾人？
 
-例題11. 設A={1，2，3，4，5}，B={x，x+1，y，y+1} 當B![](https://market.cloud.edu.tw/content/senior/math/tn_t2/math_net/NUBCC/Course/chp1-1/belong3.gif "belong3.gif \(56 bytes\)")A時，求x，y的值
+例題11. 設A={1，2，3，4，5}，B={x，x+1，y，y+1} 當B$$\subset$$A時，求x，y的值
 
