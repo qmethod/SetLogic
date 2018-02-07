@@ -42,6 +42,6 @@
     * [2.2M4\(定義\)](2logic/22-fang-6cd528-method/22m4.md)
       * [2.2M4:Sp](2logic/22-fang-6cd528-method/22m4/22m4sp.md)
   * [2.3 證明\(Proof\)](2logic/23-zheng-660e28-proof.md)
-  * 2.4 綜合評量\(Evaluation\)
+  * [2.4 綜合評量\(Evaluation\)](2logic/24-zong-he-ping-91cf28-evaluation.md)
 * [3. 函數](3function.md)
 
