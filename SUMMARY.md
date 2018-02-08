@@ -47,4 +47,8 @@
   * [2.4 綜合評量\(Evaluation\)](2logic/24-zong-he-ping-91cf28-evaluation.md)
     * [2.4ans](2logic/24-zong-he-ping-91cf28-evaluation/24ans.md)
 * [3. 函數](3function.md)
+  * [3.1Question](3function/31question.md)
+  * 3.2Method
+  * 3.3proof
+  * 3.4evaluation
 
