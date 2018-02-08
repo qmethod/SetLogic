@@ -45,7 +45,7 @@
       * [2.2M5:Sp](2logic/22-fang-6cd528-method/22m5/22m5sp.md)
   * [2.3 證明\(Proof\)](2logic/23-zheng-660e28-proof.md)
   * [2.4 綜合評量\(Evaluation\)](2logic/24-zong-he-ping-91cf28-evaluation.md)
-    * [2.4ans](2logic/24-zong-he-ping-91cf28-evaluation/24ans.md)
+    * [2.4解答](2logic/24-zong-he-ping-91cf28-evaluation/24ans.md)
 * [3. 函數](3function.md)
   * [3.1 問題\(Question\)](3function/31question.md)
   * [3.2 方法\(Method\)](3function/32method.md)
