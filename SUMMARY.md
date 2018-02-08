@@ -24,9 +24,9 @@
       * [M5:Sp](chapter1/12m/12m5/m5sp.md)
     * [1.2 M6 \(定理\)](chapter1/12m/12m6ding-740629.md)
       * M6:Sp
-    * [1.3證明\(Proof\)](chapter1/13zheng-660e28-proof.md)
-      * [1.3M6:Pf1](chapter1/13zheng-660e28-proof/13pf1.md)
     * [1.2M8\(定義\)](chapter1/12m/12m8.md)
+  * [1.3證明\(Proof\)](chapter1/13zheng-660e28-proof.md)
+    * [1.3M6:Pf1](chapter1/13zheng-660e28-proof/13pf1.md)
   * [1.4綜合評量\(Evaluation\)](chapter1/15zong-he-ping-91cf28-evaluation.md)
     * [1.4ans](chapter1/15zong-he-ping-91cf28-evaluation/14ans.md)
 * [2. 簡易邏輯](2logic.md)
