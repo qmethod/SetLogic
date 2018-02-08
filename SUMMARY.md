@@ -47,10 +47,10 @@
   * [2.4 綜合評量\(Evaluation\)](2logic/24-zong-he-ping-91cf28-evaluation.md)
     * [2.4ans](2logic/24-zong-he-ping-91cf28-evaluation/24ans.md)
 * [3. 函數](3function.md)
-  * [3.1Question](3function/31question.md)
-  * [3.2Method](3function/32method.md)
+  * [3.1 問題\(Question\)](3function/31question.md)
+  * [3.2 方法\(Method\)](3function/32method.md)
     * [3.2M1](3function/32method/32m1.md)
     * [3.2M2](3function/32method/32m2.md)
-  * [3.3proof](3function/33proof.md)
-  * 3.4evaluation
+  * [3.3證明\(proof\)](3function/33proof.md)
+  * 3.4綜合評鑑\(Evaluation\)
 
