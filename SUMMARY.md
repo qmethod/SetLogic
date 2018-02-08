@@ -48,7 +48,8 @@
     * [2.4ans](2logic/24-zong-he-ping-91cf28-evaluation/24ans.md)
 * [3. 函數](3function.md)
   * [3.1Question](3function/31question.md)
-  * 3.2Method
+  * [3.2Method](3function/32method.md)
+    * [3.2M1](3function/32method/32m1.md)
   * 3.3proof
   * 3.4evaluation
 
