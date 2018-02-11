@@ -53,7 +53,8 @@
     * [3.2M1](3function/32method/32m1.md)
       * 3.2M1:Sp
     * [3.2M2](3function/32method/32m2.md)
-      * 3.3M2:Sp
+      * [3.3M2:Sp](3function/32method/32m2/33m2sp.md)
+    * [3.2M3](3function/32method/32m3.md)
   * [3.3證明\(proof\)](3function/33proof.md)
   * 3.4綜合評鑑\(Evaluation\)
 
