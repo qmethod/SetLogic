@@ -18,7 +18,7 @@
 
 #### 連接詞：「且」「and」，「或」「or」的真假值表
 
-| p | q | p\wedge q \(p且q\) | p\vee q \(p或q\) |
+| p | q | $$p\wedge q$$ \(p且q\) | $$ p\vee q$$  \(p或q\) |
 | :--- | :--- | :--- | :--- |
 | T | T | T | T |
 | T | F | F | T |
